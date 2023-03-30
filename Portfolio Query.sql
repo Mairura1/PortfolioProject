@@ -7,7 +7,6 @@ GO
 SELECT *
 FROM [dbo].[CovidDeaths]
 
-
 SELECT *
 FROM [dbo].[CovidVaccinations]
 --DROP TABLE [dbo].[CovidVaccinations]
